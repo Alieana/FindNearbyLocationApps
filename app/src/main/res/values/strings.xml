@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Find</string>
+    <string name="google_maps_key">Put your key here</string>
+    <string name="find">Find</string>
+</resources>
